@@ -66,7 +66,7 @@ http://localhost:3000
 - Express.js  
 - body-parser middleware  
 - HTTP  
-- Postman (API testing)
+- Postman (HTTP request testing)
 
 ---
 
